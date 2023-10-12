@@ -5,7 +5,7 @@ public class Main
     public static void main(String...args)
     {
         Persona elviejo = new Persona("viejo", "434343P");
-        Persona bol = new Persona("bolichaire", "128832321P");
+        Persona bol = new Persona("bolichastico", "128832321P");
 
         bol.setPadre(elviejo);
         bol.getNombre();
